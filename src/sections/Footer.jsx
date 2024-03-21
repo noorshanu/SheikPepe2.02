@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className=" w-full  relative ">
      
       <div className="container-wrapper mt-8 ">
-      <div className=" flex justify-center">
+      <div className=" flex justify-center flex-col sm:flex-row">
       <img
                 src="images/hero2.png"
                 alt=""
