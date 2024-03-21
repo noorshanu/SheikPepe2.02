@@ -6,12 +6,14 @@ function Hero() {
       <div className="container-wrapper">
         <div className="relative z-50">
           <div className=" flex justify-center flex-col items-center ">
-            <div className=" w-full">
+            <div className=" w-full flex justify-between gap-4 items-center">
+          
               <img
                 src="images/heromain.png"
                 alt=""
-                className=" h-auto  mx-auto "
+                className=" h-[300px] mx-auto "
               />
+            
             </div>
           </div>
         </div>
