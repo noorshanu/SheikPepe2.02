@@ -2,33 +2,34 @@ import { FaTwitter, FaTelegram } from "react-icons/fa";
 function Hero() {
   return (
     <section className=" pt-0  relative ">
- 
       <div className="container-wrapper">
         <div className="relative z-50">
           <div className=" flex justify-center flex-col items-center ">
             <div className=" w-full flex justify-between gap-4 items-center">
-          
               <img
                 src="images/heromain.png"
                 alt=""
                 className=" h-[300px] mx-auto "
               />
-            
             </div>
           </div>
         </div>
 
         <div className=" max-w-3xl mx-auto ">
-          <h2 className=" text-center font-groot-two  my-2 text-lg text-white">
-            MinionSol, where the memes are as plentiful as bananas in a minion's
-            lair! We're not just any old crypto meme coin – we're your loyal
-            companions on the journey to meme greatness. With hearts as big as
-            Gru's ambitions and a community as tight-knit as a group hug from a
-            bunch of minions, you'll feel right at home with us.
+          <h1 className="text-center font-groot-two  my-2 text-xl text-white">
+            Welcome, weary traveler, to the realm of SheikPepe, the sovereign
+            ruler of the Solana blockchain!
+          </h1>
+          <h2 className=" text-center font-groot-two  my-2 text-base text-white">
+            In this majestic kingdom, where the sands of the desert meet the
+            vast expanse of the digital frontier, SheikPepe reigns supreme. With
+            zero buy and sell taxes, the path to prosperity is as smooth as a
+            camel's glide across the dunes. But what sets SheikPepe apart from
+            the rest of the meme coin horde? It's simple, dear friends. As
+            SheikPepe generates memes faster than you can say "hump day," the
+            value of our coin skyrockets to heights unseen.
           </h2>
         </div>
-
-     
 
         <div className=" flex justify-center gap-4 items-center py-4">
           <a
