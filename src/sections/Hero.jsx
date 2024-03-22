@@ -38,14 +38,14 @@ function Hero() {
             DexTools
           </a>
           <a
-            href="https://t.me/smurfsol"
+            href="https://t.me/sheikpepe"
             target="_blank"
             className="font-groot-one text-xl uppercase  bg-[#3db335] border-2 border-[#000000] text-[#f4f903] py-1 px-4 rounded-2xl"
           >
             Telegram
           </a>
           <a
-            href="https://t.me/smurfsol"
+            href="https://twitter.com/SheikPepee"
             target="_blank"
             className="font-groot-one text-xl uppercase  bg-[#3db335] border-2 border-[#000000] py-1 px-4 rounded-2xl text-[#f4f903]"
           >
@@ -54,7 +54,7 @@ function Hero() {
         </div>
 
         <a
-          href="https://solscan.io/token/AiBdJXqhDVjPvhDZcykjMwdhJaNKuqE4rSbamMqq31Nq"
+          href="#"
           target="_blank"
           className=" flex justify-center font-groot-two text-xs sm:text-xl text-center my-3 text-white "
         >
