@@ -21,7 +21,7 @@ const Footer = () => {
         <div className="flex justify-center flex-col sm:flex-row">
           <div className="mt-8 flex items-center justify-center gap-2">
           <p className="font-groot-one text-xl text-[#bcbcbc] ">
-                Copyright 2024 SheikPepe. All Rights Reserved.
+                Copyright 2024 SheikHat. All Rights Reserved.
               </p>
 
           </div>
