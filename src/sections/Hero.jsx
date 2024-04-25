@@ -17,16 +17,16 @@ function Hero() {
 
         <div className=" max-w-3xl mx-auto ">
           <h1 className="text-center font-groot-two  my-2 text-xl text-white">
-            Welcome, weary traveler, to the realm of SheikHat, the sovereign
+            Welcome, weary traveler, to the realm of SheikWif, the sovereign
             ruler of the Solana blockchain!
           </h1>
           <h2 className=" text-center font-groot-two  my-2 text-base text-white">
             In this majestic kingdom, where the sands of the desert meet the
-            vast expanse of the digital frontier, SheikHat reigns supreme. With
+            vast expanse of the digital frontier, SheikWif reigns supreme. With
             zero buy and sell taxes, the path to prosperity is as smooth as a
-            camel's glide across the dunes. But what sets SheikHat apart from
+            camel's glide across the dunes. But what sets SheikWif apart from
             the rest of the meme coin horde? It's simple, dear friends. As
-            SheikHat generates memes faster than you can say "hump day," the
+            SheikWif generates memes faster than you can say "hump day," the
             value of our coin skyrockets to heights unseen.
           </h2>
         </div>
@@ -39,14 +39,14 @@ function Hero() {
             DexTools
           </a>
           <a
-            href="https://t.me/SheikHat"
+            href="https://t.me/SheikWif"
             target="_blank"
             className="font-groot-one text-xl uppercase  bg-[#3db335] border-2 border-[#000000] text-[#f4f903] py-1 px-4 rounded-2xl"
           >
             Telegram
           </a>
           <a
-            href="https://twitter.com/SheikHate"
+            href="https://twitter.com/SheikWife"
             target="_blank"
             className="font-groot-one text-xl uppercase  bg-[#3db335] border-2 border-[#000000] py-1 px-4 rounded-2xl text-[#f4f903]"
           >

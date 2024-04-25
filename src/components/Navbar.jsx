@@ -8,7 +8,7 @@ function Navbar() {
         <div className=" flex items-center justify-between gap-2">
         <div className=" flex items-center">
         <img src="/images/logo.png" className="max-w-[5rem] w-full " alt="" />
-        <p className=" text-2xl font-groot-two mt-2 text-white">SheikHat</p>
+        <p className=" text-2xl font-groot-two mt-2 text-white">SheikWif</p>
         </div>
 
        
