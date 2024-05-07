@@ -33,20 +33,20 @@ function Hero() {
 
         <div className=" flex justify-center gap-4 items-center py-4">
           <a
-            href="https://www.dextools.io/app/en/solana/pair-explorer/AvpnWZtoZ7zxTKy3mhVbFvBnZxEc3J4pazAwH9ktaQHv?t=1711091233486" target="_blank"
+            href="#" target="_blank"
             className="font-groot-one text-xl uppercase text-[#f4f903] bg-[#3db335] border-2 border-[#000000] py-1 px-4 rounded-2xl"
           >
             DexTools
           </a>
           <a
-            href="https://t.me/SheikWif"
+            href="https://t.me/sheikwifs"
             target="_blank"
             className="font-groot-one text-xl uppercase  bg-[#3db335] border-2 border-[#000000] text-[#f4f903] py-1 px-4 rounded-2xl"
           >
             Telegram
           </a>
           <a
-            href="https://twitter.com/SheikWife"
+            href="https://twitter.com/SheikhWIF"
             target="_blank"
             className="font-groot-one text-xl uppercase  bg-[#3db335] border-2 border-[#000000] py-1 px-4 rounded-2xl text-[#f4f903]"
           >
@@ -55,11 +55,11 @@ function Hero() {
         </div>
 
         <a
-          href="https://solscan.io/token/7U9aGn4YokMajDteP9kgnxyrkULnQqLn6NBfgv5WgFu4"
+          href="NBfgv5WgFu4"
           target="_blank"
           className=" flex justify-center font-groot-two text-xs sm:text-xl text-center my-3 text-white "
         >
-          CONTRACT: 7U9aGn4YokMajDteP9kgnxyrkULnQqLn6NBfgv5WgFu4
+          CONTRACT: gfhgfhfhjhvghjbgjhbhbjhbhjbhj
         </a>
       </div>
     </section>
