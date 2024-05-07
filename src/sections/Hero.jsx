@@ -55,11 +55,11 @@ function Hero() {
         </div>
 
         <a
-          href="NBfgv5WgFu4"
+          href="https://solscan.io/token/DZ9fuFqkrwdDdM3va5T51yZ67SG4iNV3hda5aAFB4xVg"
           target="_blank"
           className=" flex justify-center font-groot-two text-xs sm:text-xl text-center my-3 text-white "
         >
-          CONTRACT: gfhgfhfhjhvghjbgjhbhbjhbhjbhj
+          CONTRACT: DZ9fuFqkrwdDdM3va5T51yZ67SG4iNV3hda5aAFB4xVg
         </a>
       </div>
     </section>
